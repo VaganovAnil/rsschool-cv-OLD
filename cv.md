@@ -43,5 +43,3 @@ rs and rt, radio engineering
 English - B1,
 Skills Executive: Driving experience, Have your own car, drive license category A, B, C
 
-
-
