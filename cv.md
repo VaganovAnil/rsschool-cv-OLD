@@ -38,7 +38,6 @@ rs and rt, radio engineering
 
 
 
-
 >___Knowledge of languages___ Russian - Native,
 English - B1,
 Skills Executive: Driving experience, Have your own car, drive license category A, B, C
