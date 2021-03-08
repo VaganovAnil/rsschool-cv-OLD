@@ -11,7 +11,6 @@ Born April 7, 1978
 
 
 
-
 > ___Residence: Samara___
 Citizenship Russia, have a work permit and work expierence Kazakhstan  
 
@@ -20,7 +19,6 @@ Citizenship Russia, have a work permit and work expierence Kazakhstan
 
 >___QA engineer___
 Manual tester, QA engineer, QA engineer automation, Junior software engineer (Python)  
-
 
 
 
